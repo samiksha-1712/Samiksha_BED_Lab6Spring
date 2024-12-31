@@ -1,0 +1,12 @@
+com\CollegeFest\Entity\Role.class
+com\CollegeFest\Security\MyUserDetails.class
+com\CollegeFest\ServiceImpl\UserDetailsServiceImpl.class
+com\CollegeFest\Security\WebSecurityConfig.class
+com\CollegeFest\Repository\UserRepository.class
+com\CollegeFest\ServiceImpl\StudentServiceImpl.class
+com\CollegeFest\StudentManagementSystemApplication.class
+com\CollegeFest\Entity\Student.class
+com\CollegeFest\Repository\StudentRepository.class
+com\CollegeFest\Service\StudentService.class
+com\CollegeFest\Controller\StudentController.class
+com\CollegeFest\Entity\User.class
